@@ -1,0 +1,83 @@
+[
+  {
+    "title": "dullahan",
+    "folder": "dullahan",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/dullahan/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/dullahan/dullahan.json",
+    "path": "stories/dullahan/dullahan.json"
+  },
+  {
+    "title": "kessler catastrophe",
+    "folder": "kessler_catastrophe",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/kessler catastrophe/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/kessler catastrophe/kessler catastrophe.json",
+    "path": "stories/kessler catastrophe/kessler catastrophe.json"
+  
+  },
+
+  {
+    "title": "leningrad",
+    "folder": "leningrad",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/leningrad/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/leningrad/leningrad.json",
+    "path": "stories/leningrad/leningrad.json"
+  
+  },
+
+  {
+    "title": "librarian",
+    "folder": "librarian",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/librarian/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/librarian/librarian.json",
+    "path": "stories/librarian/librarian.json"
+    
+  },
+
+  {
+    "title": "mandela effect",
+    "folder": "mandela_effect",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/mandela effect/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/mandela effect/mandela effect.json",
+    "path": "stories/mandela effect/mandela effect.json"
+  
+  },
+
+  {
+    "title": "marble",
+    "folder": "marble",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/marble/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/marble/marble.json",
+    "path": "stories/marble/marble.json"
+  
+  },
+
+  {
+    "title": "radioactive oasis",
+    "folder": "radioactive_oasis",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/radioactive oasis/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/radioactive oasis/radioactive oasis.json",
+    "path": "stories/radioactive oasis/radioactive oasis.json"
+    
+  },
+
+  {
+    "title": "symmetry cure",
+    "folder": "symmetry_cure",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/symmetry cure/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/symmetry cure/symmetry cure.json",
+    "path": "stories/symmetry cure/symmetry cure.json"
+    
+  },
+
+  {
+    "title": "thirteenth floor",
+    "folder": "thirteenth_floor",
+    "coverUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/thirteenth floor/cover.jpg",
+    "storyUrl": "https://mohamedhossam6273.github.io/stories-hosting/stories/thirteenth floor/thirteenth floor.json",
+    "path": "stories/thirteenth floor/thirteenth floor.json"
+    
+  }
+
+  
+]
+
