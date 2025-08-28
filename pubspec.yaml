@@ -1,0 +1,39 @@
+name: destini_multi_story_app
+description: A Flutter choose-your-own-adventure game with multiple stories.
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pdf: ^3.11.0
+  printing: ^5.12.0
+  share_plus: ^7.2.1
+  path_provider: ^2.0.15
+  confetti: ^0.8.0
+  flutter_staggered_grid_view: ^0.7.0
+  dio: ^5.9.0
+  cross_file: ^0.3.4+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/stories/
+    - assets/images/
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+    - family: NotoNaskhArabic
+      fonts:
+        - asset: assets/fonts/NotoNaskhArabic-Regular.ttf
